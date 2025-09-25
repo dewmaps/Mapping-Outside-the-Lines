@@ -21,7 +21,6 @@ object_list:
     dimensions: 45 x 45 cm 
     location: David Rumsey Historical Map Collection
     link: https://www.davidrumsey.com/luna/servlet/s/15w3p7
-    thumbnail: nycsubway.jpg 
     figure:
       - id: "nycsubway1"
 
@@ -33,6 +32,7 @@ object_list:
     medium: Chromolithography  
     location: Norman B. Leventhal Map & Education Center
     link: https://collections.leventhalmap.org/search/commonwealth:jh343z959 
+    thumbnail: carte-ethnographique.jpg
     figure:
       - id: "carteethno"
 
@@ -42,7 +42,8 @@ object_list:
     artist: John Ogilby
     dimensions: 33 x 46 cm 
     location: David Rumsey Historical Map Collection
-    link: https://www.davidrumsey.com/luna/servlet/s/ab4kk8 
+    link: https://www.davidrumsey.com/luna/servlet/s/ab4kk8
+    thumbnail: road-from-london.jpg
     figure:
       - id: "roadfromlondon"
 

@@ -1,25 +1,26 @@
 figure_list:
 
-  - id: "elements"
-    src: robinsonelements.jpg
-    caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
-    credit: "Newberry Library"
-
   - id: "conventionalsigns2"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR380
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7 
     caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
+    src: conventionalsigns.jpg
+    printImage: conventionalsigns.jpg
     credit: "Newberry Library"
 
   - id: "buache"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/canvas/c1
     Credit: "David Rumsey Historical Map Collection"
+    src: philippebuache.jpg
+    printimage: philippebuache.jpg
 
   - id: "carta-general"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1
     credit: "David Rumsey Historical Map Collection"   
+    printImage: cartageneral.jpg
+    src: cartageneral.jpg
 
   - id: "stanfordslondon"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/manifest 
@@ -31,32 +32,44 @@ figure_list:
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40J8Q   
+    printImage: universale1.jpg 
+    src: universale1.jpg
 
   - id: "physio-diagram"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/canvas/c1 
     credit: David Rumsey Map Collection
+    printImage: physiographicdiagram.jpg
+    src: physiographicdiagram.jpg
 
   - id: "generallchart"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSK4L5EB
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
     credit: "Newberry Library"
+    printImage: a-generall-chart.jpg
+    src: a-generall-chart.jpg
 
   - id: "roadfromlondon"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
     credit: David Rumsey Historical Map Collection
+    src: road-from-london.jpg
+    printImage: road-from-london.jpg
 
   - id: "carteethno"
     manifestId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/canvas/jh343z96k
     caption: "For an example of the binary logic of borders, look at the border of Slovakia and Hungary, where alternating lines of green and yellow show an area split between two ethnicities, preventing representation of other ethnic groups in the area."
     credit: Normal B. Leventhal Map & Education 
+    printImage: carte-ethnographique.jpg
+    src: carte-ethnographique.jpg
 
   - id: "nycsubway1"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
     credit: "David Rumsey Historical Map Collection"
+    src: nycsubway.jpg
+    printImage: nycsubway.jpg
 
   - id: "usgs-topog"
     src: usgs-topog.jpg
@@ -72,11 +85,15 @@ figure_list:
     credit: "Newberry Library"
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4039K    
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR8A3 
+    printImage: frenchmarine.jpg 
+    src: frenchmarine.jpg
 
   - id: "fairburn"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8PLC
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40SXQ  
+    printImage: fairburn.jpg
+    src: fairburn.jpg
 
   - id: "jansson"
     src: jansson1.jpg
@@ -87,65 +104,89 @@ figure_list:
     manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/1831jp041/canvas/gh93p108q
     credit: "Norman B. Leventhal Map & Education Center"
+    src: equatorialazimuthal-usgs.jpg
+    printImage: equatorialazimuthal-usgs.jpg
 
   - id: "guiasescalada"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8XEY
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6
+    printImage: mexicoaveracruz.jpg
+    src: mexicoaveracruz.jpg
 
   - id: "rauschenberg"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH 
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
+    printImage: rauschenberg.jpg
+    src: rauschenberg.jpg
 
   - id: "desbarres"
     caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8USA
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40ZI1
+    printImage: desbarres.jpg
+    src: desbarres.jpg
 
   - id: "chartofthesouthpolarsea"
     caption: "If you examine the journey lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8CB3  
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X
+    printImage: chartofthesouthpolarsea.jpg
+    src: chartofthesouthpolarsea.jpg
 
   - id: "louisiana"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8M4E
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ENQD
+    printImage: louisiana.jpg
+    src: louisiana.jpg
 
   - id: "horizondeparis"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8T8T
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40O37
+    printImage: horizondeparis.jpg
+    src: horizondeparis.jpg
 
   - id: "denes"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT843L
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4KFSK 
+    printImage: denes.jpg 
+    src: denes.jpg
 
   - id: "tegglondon"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT88YY
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4EA9D
+    printImage: tegglondon.jpg
+    src: tegglondon.jpg
 
   - id: "randmcnallykytn"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LARBS6 
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P401EX
+    printImage: randmcnally-kytn.jpg
+    src: randmcnally-kytn.jpg
 
   - id: "lapland"
     caption: "At the borders distinguishing these maps, the rhumb lines continue across them."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT86O3
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40UGR
+    printImage: lapland.jpg
+    src: lapland.jpg
 
   - id: "kartederbundes"
     caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT85MG
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8JRTOM9 
+    printImage: karte-der-bundeswasserstrassen.jpg 
+    src: karte-der-bundeswasserstrassen.jpg
 
   - id: "johncagemap" 
     src: adipinthelake.jpg 
@@ -188,5 +229,11 @@ figure_list:
     src: randmcnallylogo.jpg
     printImage: randmcnallylogo.jpg
     zoom: false
+
+  - id: "ptolemy"
+    src: ptolemy.jpg
+    caption: "p138 from the 1535 edition of Ptolemy's *Geographicae enarrationis libri octo*"
+    credit: "Newberry Library"
+    printImage: ptolemy.jpg
 
 

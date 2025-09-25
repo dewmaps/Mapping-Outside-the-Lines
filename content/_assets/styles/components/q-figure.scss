@@ -309,7 +309,8 @@
   }
 
   &.is-pulled-left,
-  &.is-pulled-right {
+  &.is-pulled-right,
+  &.is-small-middle {
     @media screen and (min-width: $tablet) {
       width: 50%;
     }
