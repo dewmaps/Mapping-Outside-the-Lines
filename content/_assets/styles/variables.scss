@@ -6,9 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
-$content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$accent-color: $bird-red;
+$content-background-color: #F7F2ED; // main text area background color
+$secondary-background-color: $off-white; // #EAEBE7 only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -34,8 +34,8 @@ $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
 // -----------------------------------------------------------------------------
-$quire-cover-text-color: $white;
-$quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
+$quire-cover-text-color: $light-blue;
+$quire-cover-text-scale: 4; // use decimal numbers such as .8 or 1.3
 
 // Menu
 // -----------------------------------------------------------------------------
@@ -89,7 +89,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-headings-font: $times-serif !default;
   $quire-footnotes-font: $noto-sans !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: $blue !default;
+  $accent-color: $light-blue !default;
   $content-background-color: $white !default;
   $secondary-background-color: $content-background-color;
 } @else {
@@ -109,7 +109,7 @@ $navbar-height: 3rem;
 $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
-$quire-navbar-color: null;
+$quire-navbar-color: $light-blue;
 $quire-navbar-hover-color: null;
 $quire-navbar-text-color: null;
 

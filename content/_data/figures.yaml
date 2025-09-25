@@ -1,129 +1,192 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    alt: "Shot low and looking up at an old model car on a dirt row with a hill behind. A woman sits on the roof of the car holding a large camera and smiling."
+  - id: "elements"
+    src: robinsonelements.jpg
+    caption: "From *Elements of Cartography, Fifth Edition* by Arthur H. Robinson,  Joel L. Morrison, and Randall D. Sale, 1984."
+    credit: "Newberry Library"
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-    alt: "A seated man looking away to the left, his hand at his cheek, his hair mussed, a slight worried expression on his face."
+  - id: "conventionalsigns2"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR380
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7 
+    caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
+    credit: "Newberry Library"
 
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A man, from the chest up, in a decorated uniform turned to look at the camera. Other men in similar attire talk amongst one another in the background."
+  - id: "buache"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/canvas/c1
+    Credit: "David Rumsey Historical Map Collection"
 
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "Three boys standing in matching pants, white shirts, dark ties, and hats. Two look at the camera, unamused, the other’s attention is elsewhere."
+  - id: "carta-general"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1
+    credit: "David Rumsey Historical Map Collection"   
 
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A large stone cross in the foreground, with smaller grave markers receding behind. Further back are brick row houses and behind them a row of factory towers which stretch across most of the top of the frame."
+  - id: "stanfordslondon"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/manifest 
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/canvas/c1
+    caption: "Edward Stanford, Map of London and Its Suburbs, 1866."
+    credit: "David Rumsey Historical Map Collection"
 
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A small group of people standing in front of a doorway and rough wooden wall of a building, looking at a book in one man's hands and singing. Other figures are cropped out along the edges."
+  - id: "universale1"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT89T0  
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40J8Q   
 
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A man sitting in a doorway and a young woman beside him in a chair, both barefoot, on the porch of a wooden house."
+  - id: "physio-diagram"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/canvas/c1 
+    credit: David Rumsey Map Collection
 
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "An abandoned-looking wooden shack darkly colored and standing straight against a light, empty expanse of sparsely vegetated dessert and cloudy sky."
+  - id: "generallchart"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSK4L5EB
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8ZSK4T7HU
+    credit: "Newberry Library"
 
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "A narrow, unmarked paved road stretching away diagonally from the bottom right. On one side a row of houses and multi-pronged telegraph or electrical poles, on the other side a gas station sign and single car and figure."
+  - id: "roadfromlondon"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/canvas/c1
+    credit: David Rumsey Historical Map Collection
 
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
+  - id: "carteethno"
+    manifestId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/manifest
+    canvasId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/canvas/jh343z96k
+    caption: "For an example of the binary logic of borders, look at the border of Slovakia and Hungary, where alternating lines of green and yellow show an area split between two ethnicities, preventing representation of other ethnic groups in the area."
+    credit: Normal B. Leventhal Map & Education 
 
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
+  - id: "nycsubway1"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/canvas/c1 
+    credit: "David Rumsey Historical Map Collection"
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
+  - id: "usgs-topog"
+    src: usgs-topog.jpg
+    caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950"
+    credit: "Newberry Library"
+
+  - id: "heezen1"
+    src: heezen1.jpg
+    caption: "Bruce Heezen, Marie Tharp, and Maurice Ewing, 'The Floors of the Ocean,' *The Geological Society of America Special Paper 65*."
+    credit: "Newberry Library"
+
+  - id: "frenchmarine"
+    credit: "Newberry Library"
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4039K    
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR8A3 
+
+  - id: "fairburn"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8PLC
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40SXQ  
+
+  - id: "jansson"
+    src: jansson1.jpg
+    credit: "The Library of Congress"
     zoom: true
-    alt: "Close in shot of a mother with her hand to her cheek, two children pressed against either side but turned away, a baby just visible on her lap."
 
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
+  - id: "equatorialusgs"
+    manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
+    canvasId: https://ark.digitalcommonwealth.org/ark:/50959/1831jp041/canvas/gh93p108q
+    credit: "Norman B. Leventhal Map & Education Center"
 
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
+  - id: "guiasescalada"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8XEY
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-    alt: "A woman seated in a bed nursing a child, a man on a chair beside them, in a room with plain wooden floor and walls, both barefoot and staring at the camera."
+  - id: "rauschenberg"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8JRH 
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "Parents and four children of varying ages, seated and posing for the camera in a room with plain wooden floor and walls."
+  - id: "desbarres"
+    caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8USA
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40ZI1
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "Portrait of a bare-chested moustached man, with a patterned bandana draped over his shoulders, photographed from the chest up, staring straight into the camera."
+  - id: "chartofthesouthpolarsea"
+    caption: "If you examine the journey lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8CB3  
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X
+
+  - id: "louisiana"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8M4E
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ENQD
+
+  - id: "horizondeparis"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT8T8T
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40O37
+
+  - id: "denes"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT843L
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4KFSK 
+
+  - id: "tegglondon"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT88YY
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4EA9D
+
+  - id: "randmcnallykytn"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LARBS6 
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P401EX
+
+  - id: "lapland"
+    caption: "At the borders distinguishing these maps, the rhumb lines continue across them."
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT86O3
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40UGR
+
+  - id: "kartederbundes"
+    caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LT85MG
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8JRTOM9 
+
+  - id: "johncagemap" 
+    src: adipinthelake.jpg 
+    caption: "Map created by John Cage for his musical score, *A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*" 
+    credit: "Terra Foundation for American Art" 
+
+  - id: "fmpinstall"
+    src: foldedmapinstall.jpg
+    caption: "Image captured during an installation of Tonika Johnson's *Folded Map Project*"
+    credit: "Tonika Johnson"
+
+  - id: "audiotest" 
+    poster: audiotext.jpg 
+    media_id: 881273542 
+    media_type: soundcloud  
+    caption: "A test for *A Dip in the Lake* audios" 
+    credit: "Newberry Library" 
+
+  - id: "cagecover"
+    src: cagemusiccover.jpg
+    caption: "Cover from the score for John Cage's *A Dip in the Lake*"
+
+  - id: "cagesheet"
+    src: cagemusicsheet.jpg 
+    caption: "Page from the score for *A Dip in the Lake*"
+
+  - id: "wynne"
+    src: wynne.jpg
+    caption: "Page from Michael Wynne's *England*"
+    credit: "Newberry Library"
+    zoom: false
+
+  - id: "generaldrafting"
+    caption: "H.M. touring guide art, General Drafting Company collection, 1927-1989"
+    credit: "Newberry Library"
+    manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LTR56G
+    canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P409LW
+    
+  - id: "randmcnallylogo"
+    src: randmcnallylogo.jpg
+    printImage: randmcnallylogo.jpg
+    zoom: false
+
+

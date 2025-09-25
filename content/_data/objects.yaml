@@ -1,41 +1,314 @@
-object_filters:
-  - artist
-  - year
-
-object_card:
-  - thumbnail
-  - id
-  - title
-
 object_display_order:
   - artist
+  - title
   - year
   - dimensions
   - medium
   - location
 
+object_card:
+  - thumbnail
+  - artist
+  - title
+  - year
+
 object_list:
 
-  - id: "1"
-    title: "*Human Erosion in California / Migrant Mother*"
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+  - id: 3
+    title: The Metropolitan Transportation Authority revised map of the rapid transit facilities of New York City Transit Authority
+    year: 1972
+    artist: Massimo Vignelli
+    dimensions: 45 x 45 cm 
+    location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/15w3p7
+    thumbnail: nycsubway.jpg 
     figure:
-      - id: "cat-1"
+      - id: "nycsubway1"
 
-  - id: "2"
-    title: "*Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*"
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+  - id: 4
+    title: "*Carte ethnographique de l'Europe*"
+    year: 1918
+    artist: J. Gabrys
+    dimensions: 81 x 107 cm
+    medium: Chromolithography  
+    location: Norman B. Leventhal Map & Education Center
+    link: https://collections.leventhalmap.org/search/commonwealth:jh343z959 
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
+      - id: "carteethno"
+
+  - id: 5
+    title: "'The Continuation of ye Road from London to Barstable' in *Britannia, Volume the First*"
+    year: 1675
+    artist: John Ogilby
+    dimensions: 33 x 46 cm 
+    location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/ab4kk8 
+    figure:
+      - id: "roadfromlondon"
+
+  - id: 6
+    title: "*A Generall chart from England to Cape Bona Esperance with Newfoundland and Brazile according to Mr. Edw. Wrights projection*"
+    year: 1720
+    artist: R. Mount and T. Page
+    dimensions: 447 x 563 mm (neat line), on sheet remargined to 486 x 596 mm
+    medium: Engraving on paper
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8ZSK4L5EB 
+    figure:
+      - id: "generallchart"
+
+  - id: 7
+    title: "*Physiographic Diagram, Atlantic Ocean (Sheet 1)*"
+    year: 1957
+    artist: Marie Tharp and Bruce Heezen
+    dimensions: 77 x 142 cm 
+    medium: Offset lithography
+    location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/k0lq0a 
+    figure:
+      - id: "physio-diagram"  
+
+
+  - id: 8
+    title: "*Universale descrittione di tutta la terra conosciuta fin qui*" 
+    year: 1565
+    artist: Ferando Bertelli
+    dimensions: 41 x 75 cm.
+    medium: Hand-colored engraving
+    location: The Library of Congress, Geography and Map Division
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40J8Q?WS=AssetManagement 
+    figure:
+      - id: "universale1"
+
+  - id: 9
+    title: Stanford's Library Map of London and Its Suburbs
+    year: 1866
+    artist: Edward Stanford
+    dimensions: 192 x 164 cm.
+    location: David Rumsey Historical Map Collection
+    figure:
+      - id: "stanfordslondon"
+
+  - id: 10
+    title: "*Carta general de la República Mexicana*"
+    year: 1863
+    artist: Antonio García Cubas
+    dimensions: 125 x 146 cm.
+    medium: Hand-colored lithography
+    location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/i21fx0 
+    figure:
+      - id: "carta-general"
+
+  - id: 14
+    title: "“Carte Physique ou Géographie Naturelle de la France” in *Cartes et tables de la géographie physique ou naturelle*"
+    year: 1770
+    artist: Philippe Buache
+    dimensions: 39 x 50 cm. 
+    medium: Hand-colored engraving
+    location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/pfx166 
+    figure:
+      - id: "buache"
+
+  - id: 15
+    title: "*Plan du Cul-de-Sac Marin (Ile de la Martinique)*"
+    year: 1828
+    artist: Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré
+    medium: Engraving on paper  
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4039K?WS=AssetManagement 
+    figure:
+      - id: "frenchmarine"
+
+  - id: 16
+    title: Untitled, in Borrowdale, United Kingdom
+    year: 2017
+    artist: Ed Fairburn
+    dimensions: 21 x 26 cm 
+    medium: Acrylic on found paper
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40SXQ?WS=AssetManagement 
+    figure:
+      - id: "fairburn"
+
+  - id: 17
+    title: "*Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio*"
+    year: 1673
+    artist: Jan Jansson
+    dimensions: 40 x 51 cm
+    medium: Hand-colored engraving  
+    location: Newberry Library
+    link: https://lccn.loc.gov/87690703 
+    figure:
+      - id: "jansson"
+    
+  - id: 18
+    title: Equatorial azimuthal equidistant projection 
+    year: ca. 1940-1949
+    artist: U.S. Coast and Geodetic Survey 
+    dimensions: 86 x 86 cm
+    medium: Offset lithography 
+    location: Norman B. Leventhal Map & Education Center 
+    link: https://collections.leventhalmap.org/search/commonwealth:1831jp041 
+    figure:
+      - id: "equatorialusgs"
+
+  - id: 19
+    title: "'Mexico a Veracruz' in *Mexico*"
+    year: ca. 1938-39
+    artist: Guias Escalada
+    dimensions: 23 cm
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8PSQMU6 
+    figure: 
+      - id: "guiasescalada"
+
+  - id: 20
+    title: "Untitled print #47 from Tares"
+    year: 1972
+    artist: Robert Rauschenberg
+    dimensions: sheet 83 x 60 cm
+    medium: Collage of printed maps and magazine and newspaper clippings 
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40NUD?WS=AssetManagement
+    figure:
+      - id: "rauschenberg"
+
+  - id: 21
+    title: "“A Plan of the Delawar River” in *The Atlantic Neptune*" 
+    year: 1780
+    artist: Joseph F. W. Des Barres 
+    dimensions: 82-88 cm
+    medium: Hand-colored engraving and etching 
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40ZI1 
+    figure:
+      - id: "desbarres"
+    
+  - id: 22
+    title: "*Chart of the South Polar Sea*"
+    year: ca. 1841
+    artist: Hydrographic Office of the Admiralty
+    dimensions: 63 cm diameter
+    medium: Engraving with manuscript notes in pencil and red and blue ink added by John Edward Davis.
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4ER6X?WS=AssetManagement 
+    figure:
+      - id: "chartofthesouthpolarsea"
+
+  - id: 23
+    title: "*Map of Louisiana Representing the Several Land Districts*"
+    year: 1858
+    artist: William J. McCulloh
+    dimensions: 39 x 41 cm 
+    medium: Hand-colored lithography 
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4ENQD?WS=AssetManagement
+    figure:
+      - id: "louisiana"
+
+  - id: 24
+    title: "*Horizon de Paris dedié a son Altesse Monseigneur l'Archeveque de Cambray, Pair de France, Prince du S. Empire, Comte du Cambresis*"
+    year: 1739
+    artist: Unknown
+    dimensions: 48 cm diameter on sheet 61 x 84 cm 
+    medium: Hand-colored engraving 
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40O37?WS=AssetManagement 
+    figure:
+      - id: "horizondeparis"
+
+  - id: 25
+    title: "“Eight projections” in *Isometric systems in isotropic space: map projections: from the study of distortions series, 1973-1979*"
+    year: 1979
+    artist: Agnes Denes
+    medium: Offset lithography 
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4KFSK?WS=AssetManagement 
+    figure:
+      - id: "denes"
+
+  - id: 26
+    title: "*Tegg's new plan of London, &c with 360 references to the principal streets, &c.*"
+    year: 1831
+    artist: Thomas Tegg 
+    dimensions: 35 x 60 cm
+    medium: "Hand-colored engraving on paper, dissected and mounted on linen"
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4EA9D?WS=AssetManagement 
+    figure: 
+      - id: "tegglondon" 
+
+  - id: 27
+    title: "“Kentucky—Tennessee” in *Rand McNally road atlas of the United States, Canada and Mexico*"
+    year: 1951
+    artist: Rand McNally
+    dimensions: 40 cm 
+    medium: Offset lithography
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P401EX?WS=AssetManagement
+    figure: 
+      - id: "randmcnallykytn"
+
+  - id: 28
+    title: "“Lapland” in *The lightning columne, or, Sea-mirrour*" 
+    year: 1711
+    artist: Theunis Jacobsz 
+    dimensions: 44 cm 
+    medium: Engraving
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40UGR?WS=AssetManagement
+    figure: 
+      - id: "lapland"
+  
+  - id: 29
+    title: "*Karte der Bundeswasserstrassen 1:10,000: Verkehrskarte. Donau*"
+    year: 1975
+    artist: Wasser- und Schiffahrtsdirektion Süd. 
+    medium: Offset lithography
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8LT85MG?WS=AssetManagement
+    figure:
+      - id: "kartederbundes" 
+
+  - id: 30 
+    title: "*A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*" 
+    year: 1978 
+    artist: John Cage 
+    dimensions: 141.6 x 111.1 cm 
+    medium: Felt-tip pen on printed map  
+    location: The Museum of Contemporary Art Chicago 
+    link: https://mcachicago.org/collection/items/john-cage/890-a-dip-in-the-lake-ten-quicksteps-sixty-two-waltzes-and-fifty-six-marches-for-chicago-and-vicinity
+    figure:  
+      - id: "johncagemap" 
+      - id: "cagecover" 
+      - id: "cagesheet"
+
+  - id: 31
+    title: "Installation of the *Folded Map Project*"
+    year: ca. 2017
+    artist: Tonika Johnson
+    link: https://www.foldedmapproject.com/
+    figure: 
+      - id: "fmpinstall" 
+
+  - id: 32
+    title: '"Conventional Signs for Topography" in *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science*'
+    year: 1870
+    artist: Joseph Enthoffer
+    dimensions: 31 x 38 cm 
+    medium: Engraving
+    location: Newberry Library
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8LAR380
+    figure: 
+      - id: "conventionalsigns2"
+
+  - id: 33
+    title: "*Topographic Maps*"
+    year: 1950
+    artist: United States Geological Survey 
+    medium: Lithography
+    location: Newberry Library
+    figure: 
+      - id: "usgs-topog"
