@@ -34,9 +34,9 @@ footnotes:
   backlinkSymbol: '↩'
 
 figures:
-  assetDir: '../_assets/'
+  assetDir: 'https://dewmaps.github.io/Mapping-Outside-the-Lines/_assets/'
   enableModal: true
-  imageDir: '../_assets/images'
+  imageDir: 'https://dewmaps.github.io/Mapping-Outside-the-Lines/_assets/images'
 
 licenseIcons: true
 
