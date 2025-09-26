@@ -34,9 +34,9 @@ footnotes:
   backlinkSymbol: '↩'
 
 figures:
-  assetDir: '_assets/'
+  assetDir: '../_assets/'
   enableModal: true
-  imageDir: '_assets/images'
+  imageDir: '../_assets/images'
 
 licenseIcons: true
 
