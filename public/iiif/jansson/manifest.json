@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:8080/iiif/jansson/manifest.json",
+  "id": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,22 +9,22 @@
   },
   "items": [
     {
-      "id": "http://localhost:8080/iiif/jansson/canvas",
+      "id": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/canvas",
       "type": "Canvas",
       "height": 1586,
       "width": 1837,
       "items": [
         {
-          "id": "http://localhost:8080/iiif/jansson/canvas/annotation-page",
+          "id": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:8080/iiif/jansson/canvas/jansson1",
+              "id": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/canvas/jansson1",
               "motivation": "painting",
-              "target": "http://localhost:8080/iiif/jansson/canvas",
+              "target": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/canvas",
               "type": "Annotation",
               "body": {
-                "id": "http://localhost:8080/iiif/jansson/jansson1/print-image.jpg",
+                "id": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/jansson1/print-image.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1586,
@@ -37,7 +37,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "http://localhost:8080/iiif/jansson/jansson1/tiles/info.json",
+                    "@id": "https://dewmaps.github.io/Mapping-Outside-the-Lines/iiif/jansson/jansson1/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }
