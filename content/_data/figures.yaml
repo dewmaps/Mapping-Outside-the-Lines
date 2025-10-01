@@ -5,6 +5,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40BF7 
     caption: "From  *Manual of Topography and Text-book Of Tropographical Drawing; For the Use of Officers of the Army and Navy, Civil Engineers, Academies, Colleges, and Schools of Science* by Joseph Enthoffer, 1870."
     src: conventionalsigns.jpg
+    alt: "Gridded layout of various lines and patterns showing types of roads and topographical features."
     printImage: conventionalsigns.jpg
     credit: "Newberry Library"
 
@@ -12,12 +13,14 @@ figure_list:
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~25811~1080052/canvas/c1
     Credit: "David Rumsey Historical Map Collection"
+    alt: "Hand-colored map of France and the English Channel with contour lines in the water showing depths."
     src: philippebuache.jpg
     printimage: philippebuache.jpg
 
   - id: "carta-general"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/manifest
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~253680~5519073/canvas/c1
+    alt: "Large map of Mexico assembled digitally from 4 sheets with large vignettes of Mexico either side of the title."
     credit: "David Rumsey Historical Map Collection"   
     printImage: cartageneral.jpg
     src: cartageneral.jpg
@@ -27,6 +30,7 @@ figure_list:
     canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~298923~90070233/canvas/c1
     caption: "Edward Stanford, Map of London and Its Suburbs, 1866."
     credit: "David Rumsey Historical Map Collection"
+    alt: "Map of London"
 
   - id: "universale1"
     credit: "Newberry Library"
@@ -34,6 +38,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40J8Q   
     printImage: universale1.jpg 
     src: universale1.jpg
+    alt: "Oval, hand-colored world map with sea monsters and a large, green expansive southern continent at the bottom."
 
   - id: "physio-diagram"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~238688~5511615/manifest
@@ -41,6 +46,7 @@ figure_list:
     credit: David Rumsey Map Collection
     printImage: physiographicdiagram.jpg
     src: physiographicdiagram.jpg
+    alt: "Large map of the Atlantic ocean in deep blue with jagged ocean surface topography shown in exaggerated relief."
 
   - id: "generallchart"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8ZSK4L5EB
@@ -48,6 +54,7 @@ figure_list:
     credit: "Newberry Library"
     printImage: a-generall-chart.jpg
     src: a-generall-chart.jpg
+    alt: "Map of the Atlantic between Africa and Brazil with green, blue, and red rhumb lines across the whole map."
 
   - id: "roadfromlondon"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278433~90051120/manifest
@@ -55,6 +62,7 @@ figure_list:
     credit: David Rumsey Historical Map Collection
     src: road-from-london.jpg
     printImage: road-from-london.jpg
+    alt: "Strip map of a road shown as if on an unfolding scroll of paper."
 
   - id: "carteethno"
     manifestId: https://ark.digitalcommonwealth.org/ark:/50959/jh343z959/manifest
@@ -63,6 +71,7 @@ figure_list:
     credit: Normal B. Leventhal Map & Education 
     printImage: carte-ethnographique.jpg
     src: carte-ethnographique.jpg
+    alt: "Large map of Europe color-coded by linguistic and ethnic groups."
 
   - id: "nycsubway1"
     manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~278315~90051706/manifest
@@ -70,16 +79,19 @@ figure_list:
     credit: "David Rumsey Historical Map Collection"
     src: nycsubway.jpg
     printImage: nycsubway.jpg
+    alt: "Diagrammatic map of the Manhattan and New York Subway systems with lines in bold colors."
 
   - id: "usgs-topog"
     src: usgs-topog.jpg
     caption: "United States Geological Survey, *Topographic Maps* Washington, DC: United States Department of the Interior, 1950"
     credit: "Newberry Library"
+    alt: "Information broadside about topographic maps by the USGS with a legend that shows the meanings of dozens of types of lines."
 
   - id: "heezen1"
     src: heezen1.jpg
     caption: "Bruce Heezen, Marie Tharp, and Maurice Ewing, 'The Floors of the Ocean,' *The Geological Society of America Special Paper 65*."
     credit: "Newberry Library"
+    alt: "Explanatory diagram for how a line of sonar data moves from linear information to relief data to a pictorial image."
 
   - id: "frenchmarine"
     credit: "Newberry Library"
@@ -87,6 +99,7 @@ figure_list:
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LAR8A3 
     printImage: frenchmarine.jpg 
     src: frenchmarine.jpg
+    alt: "Engraved hydrographic chart of part of the coast of Martinique using a mix of hachure lines and shaded relief."
 
   - id: "fairburn"
     credit: "Newberry Library"
@@ -94,11 +107,15 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40SXQ  
     printImage: fairburn.jpg
     src: fairburn.jpg
+    alt: "A portrait of a face made on top of a hiker's topographic map. The woman's face is looking in profile to the left in a mix of orange in the foreground and green in the background."
 
   - id: "jansson"
+    manifestId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301180~90072176/manifest
+    canvasId: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~301180~90072176/canvas/c1
     src: jansson1.jpg
-    credit: "The Library of Congress"
+    credit: "David Rumsey Map Collection"
     zoom: true
+    alt: "Map centered on the North Pole with a large red circle for the Arctic Circle and a polar bear talking with two men in the lower left corner."
 
   - id: "equatorialusgs"
     manifestId: https://collections.leventhalmap.org/search/commonwealth:1831jp041/manifest
@@ -106,6 +123,7 @@ figure_list:
     credit: "Norman B. Leventhal Map & Education Center"
     src: equatorialazimuthal-usgs.jpg
     printImage: equatorialazimuthal-usgs.jpg
+    alt: "Empty projection with central points reflected about the Equator forming a large circle with interior lines as if falling into these central points." 
 
   - id: "guiasescalada"
     credit: "Newberry Library"
@@ -113,6 +131,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8PSQMU6
     printImage: mexicoaveracruz.jpg
     src: mexicoaveracruz.jpg
+    alt: "Facing pages with simple, black and white strip maps between Mexican cities with North mostly in the upper right."
 
   - id: "rauschenberg"
     credit: "Newberry Library"
@@ -120,6 +139,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40NUD 
     printImage: rauschenberg.jpg
     src: rauschenberg.jpg
+    alt: "Collage of advertisements for hair products targeted to Black men surrounding an interior collage of road maps."
 
   - id: "desbarres"
     caption: "Look closely at the lower center of the map. The line heading west from Crumb Creek shows a river but what it intersects is the illusion of ripped paper."
@@ -128,6 +148,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40ZI1
     printImage: desbarres.jpg
     src: desbarres.jpg
+    alt: "A hydrographic map made to look as if it is made of two maps laid on top of another showing two parts of the Delaware River."
 
   - id: "chartofthesouthpolarsea"
     caption: "If you examine the journey lines on the map, you can see Davis often marked each day of a journey in minute detail with points marking days and months."
@@ -136,6 +157,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ER6X
     printImage: chartofthesouthpolarsea.jpg
     src: chartofthesouthpolarsea.jpg
+    alt: "Circular map of the Antarctic with portions printed in black as well as many hand annotations in red and blue."
 
   - id: "louisiana"
     credit: "Newberry Library"
@@ -143,6 +165,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4ENQD
     printImage: louisiana.jpg
     src: louisiana.jpg
+    alt: "Hand-colored map of Louisana with surveyed areas markedw in rectangles."
 
   - id: "horizondeparis"
     credit: "Newberry Library"
@@ -150,6 +173,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40O37
     printImage: horizondeparis.jpg
     src: horizondeparis.jpg
+    alt: "Two columns of text border a world map on a azimuthal projection centered on Paris, hand-colored in red, green, and blue."
 
   - id: "denes"
     credit: "Newberry Library"
@@ -157,6 +181,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4KFSK 
     printImage: denes.jpg 
     src: denes.jpg
+    alt: "Two page spread showing 8 projections of the Earth onto different 3D surfaces."
 
   - id: "tegglondon"
     credit: "Newberry Library"
@@ -164,6 +189,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P4EA9D
     printImage: tegglondon.jpg
     src: tegglondon.jpg
+    alt: "Map of London cut into rectangles and attached to a linen backing. The map has faded and torn in places from use."
 
   - id: "randmcnallykytn"
     credit: "Newberry Library"
@@ -171,6 +197,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P401EX
     printImage: randmcnally-kytn.jpg
     src: randmcnally-kytn.jpg
+    alt: "Two-page spread from the Rand McNally Road atlas showing KY and TN in a two-color print."
 
   - id: "lapland"
     caption: "At the borders distinguishing these maps, the rhumb lines continue across them."
@@ -179,6 +206,7 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P40UGR
     printImage: lapland.jpg
     src: lapland.jpg
+    alt: "Book opening showing a nautical chart titled Lapland with two insets on the top with details of different areas."
 
   - id: "kartederbundes"
     caption: "Here the Danube unfurls across multiple folded segments. This is only a small portion of a much longer map."
@@ -187,43 +215,51 @@ figure_list:
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8JRTOM9 
     printImage: karte-der-bundeswasserstrassen.jpg 
     src: karte-der-bundeswasserstrassen.jpg
+    alt: "Composite image of a totally unfolded map that has the snaking shape of a portion of the Danube."
 
   - id: "johncagemap" 
     src: adipinthelake.jpg 
     caption: "Map created by John Cage for his musical score, *A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*" 
     credit: "Terra Foundation for American Art" 
+    alt: "Map of Chiacago from the 1960s almost entirely effaced by lines drawen in marker."
 
   - id: "fmpinstall"
     src: foldedmapinstall.jpg
     caption: "Image captured during an installation of Tonika Johnson's *Folded Map Project*"
     credit: "Tonika Johnson"
+    alt: "A Black man on a ladder reaches to the back of a 8' by 12' map of Chicago affixed to the wall by tubing that has flags of various colors pinned onto it."
 
   - id: "audiotest" 
     poster: audiotext.jpg 
     media_id: 881273542 
     media_type: soundcloud  
-    caption: "A test for *A Dip in the Lake* audios" 
+    caption: "*A Dip in the Lake* audios" 
     credit: "Newberry Library" 
+    alt: "Sounds recorded along walks in Chicago"
 
   - id: "cagecover"
     src: cagemusiccover.jpg
     caption: "Cover from the score for John Cage's *A Dip in the Lake*"
+    alt: "Cover from the score for John Cage's *A Dip in the Lake* with the title in an ornate font."
 
   - id: "cagesheet"
     src: cagemusicsheet.jpg 
     caption: "Page from the score for *A Dip in the Lake*"
+    alt: "Page from the score for *A Dip in the Lake* showing listed addresses under sections titled Quickstep and Waltz"
 
   - id: "wynne"
     src: wynne.jpg
     caption: "Page from Michael Wynne's *England*"
     credit: "Newberry Library"
     zoom: false
+    alt: "Two pages of an atlas of Britain painted over to various degrees with blood cells with a simple line drawing of a man lying on the ground at the base of the page."
 
   - id: "generaldrafting"
     caption: "H.M. touring guide art, General Drafting Company collection, 1927-1989"
     credit: "Newberry Library"
     manifestId: https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8LTR56G
     canvasId: https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8P409LW
+    alt: "A Black family looks out from atop a hill while referring to a map."
     
   - id: "randmcnallylogo"
     src: randmcnallylogo.jpg
@@ -235,5 +271,6 @@ figure_list:
     caption: "p138 from the 1535 edition of Ptolemy's *Geographicae enarrationis libri octo*"
     credit: "Newberry Library"
     printImage: ptolemy.jpg
+    alt: "A page from an atlas showing a map of the world without any geographic content surrounded by faces blowing winds from different directions."
 
 

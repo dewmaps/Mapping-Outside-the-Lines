@@ -134,13 +134,13 @@ object_list:
       - id: "fairburn"
 
   - id: 17
-    title: "*Nova et accvrata Poli Arctici et terrarum circum iacentium descriptio*"
-    year: 1673
-    artist: Jan Jansson
-    dimensions: 40 x 51 cm
+    title: "*Nova et accvrata Poli Arctici : et terrarum circum Iacentium descriptio*"
+    year: 1690
+    artist: Jan Jansson and Nicolaes Visscher  
+    dimensions: 41 x 52 cm
     medium: Hand-colored engraving  
-    location: Newberry Library
-    link: https://lccn.loc.gov/87690703 
+    location: David Rumsey Historical Map Collection
+    link: https://www.davidrumsey.com/luna/servlet/s/28j926
     figure:
       - id: "jansson"
     
