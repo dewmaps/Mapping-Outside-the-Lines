@@ -20,8 +20,6 @@ The Newberry gratefully acknowledges loans from the American Geographical Societ
 
 *Mapping Outside the Lines* is generously supported by Rand McNally.
 
-{% figure 'randmcnallylogo', 'is-small-middle' %}
-
 
 
 
