@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://dewmaps.github.io/Mapping-Outside-the-Lines/'
+url: 'https://netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
