@@ -18,3 +18,5 @@ The exhibition’s sections each delve into a fundamental kind of line on maps a
 {% figure 'wynne' %}
 
 Throughout this exhibition, you will encounter artists who manipulate, deform, and even destroy maps. For the artist Michael Wynne, the lines on maps offer an expansive tool to bring together typical map elements, like borders and coasts, alongside unexpected insertions, like bodies and blood. By drawing and painting over pages of a national atlas, Wynne connects different kinds of lines—from a line-drawing of a body, to blood lines, to lines of text, to train lines—to meditate on identity, nationalism, and sexuality. Like many artists in this exhibition, Wynne alters and replaces parts of the map to critique it on its own terms.
+
+Note: While this site uses digitized maps from many different libraries to make for the best possible online experience, the original objects in the installation at the Newberry all come from the Newberry's collections with the exception of only two items, graciously loaned by the [MCA Chicago](https://mcachicago.org/) and the AGSL at [UW-Milwaukee](uwm.edu/libraries/agsl/).

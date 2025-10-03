@@ -73,10 +73,10 @@ object_list:
   - id: 8
     title: "*Universale descrittione di tutta la terra conosciuta fin qui*" 
     year: 1565
-    artist: Ferando Bertelli
-    dimensions: 41 x 75 cm.
+    artist: Ferando Bertelli and Pablo Forlani
+    dimensions: 41 x 75 cm
     medium: Hand-colored engraving
-    location: The Library of Congress, Geography and Map Division
+    location: Newberry Library
     link: https://collections.newberry.org/asset-management/2KXJ8Z8P40J8Q?WS=AssetManagement 
     figure:
       - id: "universale1"
@@ -85,7 +85,7 @@ object_list:
     title: Stanford's Library Map of London and Its Suburbs
     year: 1866
     artist: Edward Stanford
-    dimensions: 192 x 164 cm.
+    dimensions: 192 x 164 cm
     location: David Rumsey Historical Map Collection
     figure:
       - id: "stanfordslondon"
@@ -94,7 +94,7 @@ object_list:
     title: "*Carta general de la República Mexicana*"
     year: 1863
     artist: Antonio García Cubas
-    dimensions: 125 x 146 cm.
+    dimensions: 125 x 146 cm
     medium: Hand-colored lithography
     location: David Rumsey Historical Map Collection
     link: https://www.davidrumsey.com/luna/servlet/s/i21fx0 
@@ -105,7 +105,7 @@ object_list:
     title: "“Carte Physique ou Géographie Naturelle de la France” in *Cartes et tables de la géographie physique ou naturelle*"
     year: 1770
     artist: Philippe Buache
-    dimensions: 39 x 50 cm. 
+    dimensions: 39 x 50 cm
     medium: Hand-colored engraving
     location: David Rumsey Historical Map Collection
     link: https://www.davidrumsey.com/luna/servlet/s/pfx166 
@@ -147,7 +147,7 @@ object_list:
   - id: 18
     title: Equatorial azimuthal equidistant projection 
     year: ca. 1940-1949
-    artist: U.S. Coast and Geodetic Survey 
+    artist: US Coast and Geodetic Survey 
     dimensions: 86 x 86 cm
     medium: Offset lithography 
     location: Norman B. Leventhal Map & Education Center 
@@ -166,7 +166,7 @@ object_list:
       - id: "guiasescalada"
 
   - id: 20
-    title: "Untitled print #47 from Tares"
+    title: "Untitled print #47 from *Tares*"
     year: 1972
     artist: Robert Rauschenberg
     dimensions: sheet 83 x 60 cm
@@ -266,7 +266,7 @@ object_list:
   - id: 29
     title: "*Karte der Bundeswasserstrassen 1:10,000: Verkehrskarte. Donau*"
     year: 1975
-    artist: Wasser- und Schiffahrtsdirektion Süd. 
+    artist: Wasser- und Schiffahrtsdirektion Süd
     medium: Offset lithography
     location: Newberry Library
     link: https://collections.newberry.org/asset-management/2KXJ8Z8LT85MG?WS=AssetManagement

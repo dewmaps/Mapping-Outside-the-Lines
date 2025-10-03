@@ -211,14 +211,14 @@ figure_list:
 
   - id: "johncagemap" 
     src: adipinthelake.jpg 
-    caption: "Map created by John Cage for his musical score, *A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*" 
-    credit: "Terra Foundation for American Art" 
+    caption: "Map created by John Cage for his musical score, *A Dip in the Lake: Ten Quicksteps, Sixty-two Waltzes, and Fifty-six Marches for Chicago and Vicinity*." 
+    credit: "MCA Chicago." 
     alt: "Map of Chiacago from the 1960s almost entirely effaced by lines drawen in marker."
 
   - id: "fmpinstall"
     src: foldedmapinstall.jpg
     caption: "Image captured during an installation of Tonika Johnson's *Folded Map Project*"
-    credit: "Tonika Johnson"
+    credit: "Tonika Johnson."
     alt: "A Black man on a ladder reaches to the back of a 8' by 12' map of Chicago affixed to the wall by tubing that has flags of various colors pinned onto it."
 
   - id: "audiotest" 
@@ -241,8 +241,8 @@ figure_list:
 
   - id: "wynne"
     src: wynne.jpg
-    caption: "Page from Michael Wynne's *England*"
-    credit: "Newberry Library"
+    caption: "Page from Michael Wynne's *England*."
+    credit: "Newberry Library."
     zoom: false
     alt: "Two pages of an atlas of Britain painted over to various degrees with blood cells with a simple line drawing of a man lying on the ground at the base of the page."
 
@@ -260,7 +260,7 @@ figure_list:
 
   - id: "ptolemy"
     src: ptolemy.jpg
-    caption: "p138 from the 1535 edition of Ptolemy's *Geographicae enarrationis libri octo*"
+    caption: "p138 from the 1535 edition of Ptolemy's *Geographicae enarrationis libri octo*."
     credit: "Newberry Library"
     printImage: ptolemy.jpg
     alt: "A page from an atlas showing a map of the world without any geographic content surrounded by faces blowing winds from different directions."
