@@ -1,10 +1,10 @@
 ---
-title: Introduction
+title: Cover
 layout: cover
 order: 1
 menu: false
 toc: false
-image: MOTL_notext.jpg
+image: MOTL_nodate.jpg
 
 ---
 

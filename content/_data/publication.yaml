@@ -12,7 +12,7 @@
 url: 'https://netlify.app'
 
 # ------------------------------------------------------------------------------
-# Title & Description
+# Title & Description 
 title: Mapping Outside the Lines
 subtitle: 
 reading_line:
@@ -20,7 +20,7 @@ short_title:
 
 description:
   one_line: A map's rules are made to be broken.
-  full: This is an online proxy for the exhibition from the Newberry Library about how maps communicate through lines. The exhibition examines how mapmakers use lines to communicate and how artists have manipulated lines to turn maps into their own artworks.
+  full: This is an online proxy for the exhibition, Mapping Outside the Lines, from the Newberry Library about how maps communicate through lines. The exhibition examines how mapmakers use lines to communicate and how artists have manipulated lines to turn maps into their own artworks.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -131,4 +131,4 @@ repository_url: https://netlify.app
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: MOTL_notext.jpg
+promo_image: MOTL_nodate.jpg
