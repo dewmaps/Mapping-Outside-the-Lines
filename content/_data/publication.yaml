@@ -8,7 +8,7 @@
 # publication.
 
 # ------------------------------------------------------------------------------
-# The publication's base URL, i.e. 'https://www.my-publication.org'
+# The publication's base URL, i.e. 'https://www.my-publication.org' 
 url: 'https://netlify.app'
 
 # ------------------------------------------------------------------------------
