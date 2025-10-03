@@ -306,7 +306,7 @@ object_list:
       - id: "conventionalsigns2"
 
   - id: 33
-    title: "*Topographic Maps*"
+    title: "*Topographic Maps*" 
     year: 1950
     artist: United States Geological Survey 
     medium: Lithography
