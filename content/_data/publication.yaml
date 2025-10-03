@@ -8,8 +8,8 @@
 # publication.
 
 # ------------------------------------------------------------------------------
-# The publication's base URL, i.e. 'https://www.my-publication.org' https://netlify.app
-url: 'http://localhost:8080/'
+# The publication's base URL, i.e. 'https://www.my-publication.org' 
+url: 'https://netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description 
