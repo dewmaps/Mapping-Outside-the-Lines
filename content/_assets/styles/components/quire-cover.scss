@@ -26,6 +26,7 @@
     top: 0;
     left: 0;
     width: 100%;
+    height: auto;
     @media screen {
       min-height: calc(95vh - #{$navbar-height} - #{$quire-progress-bar-height});
     }
@@ -44,6 +45,7 @@
     position: relative;
     @media screen {
       min-height: calc(95vh - #{$navbar-height} - #{$quire-progress-bar-height}) !important;
+
     }
     text-align: left;
     display: flex;

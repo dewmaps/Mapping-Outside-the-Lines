@@ -132,8 +132,8 @@ $quire-navbar-text-color: null;
 // Cover colors
 // -----------------------------------------------------------------------------
 // Declare cover gradient colors (make them the same for a solid background)
-$quire-cover-color-1: null;
-$quire-cover-color-2: null;
+$quire-cover-color-1: $black;
+$quire-cover-color-2: $black;
 
 @if $theme == classic {
   $quire-cover-color-1: $accent-color !default;
