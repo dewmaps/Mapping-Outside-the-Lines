@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: MOTL_nodate.jpg
+image: MOTL_nodate_border.jpg
 
 ---
 <div class="quotation"> "One can make a map without shades and colors, but not without lines"<br>Erwin Raisz,<i> Principles of Cartography</i>, 1962.

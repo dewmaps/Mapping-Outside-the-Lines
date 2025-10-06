@@ -8,8 +8,8 @@
 # publication.
 
 # ------------------------------------------------------------------------------
-# The publication's base URL, i.e. 'https://www.my-publication.org' 
-url: 'https://netlify.app'
+# The publication's base URL, i.e. 'https://www.my-publication.org' https://netlify.app
+url: 'https://localhost:8080/'
 
 # ------------------------------------------------------------------------------
 # Title & Description 
@@ -131,4 +131,4 @@ repository_url: https://netlify.app
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: MOTL_nodate.jpg
+promo_image: MOTL_nodate_border.jpg
