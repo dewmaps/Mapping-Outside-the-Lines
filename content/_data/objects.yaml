@@ -65,7 +65,7 @@ object_list:
     dimensions: 77 x 142 cm 
     medium: Offset lithography
     location: David Rumsey Historical Map Collection
-    link: https://www.davidrumsey.com/luna/servlet/s/k0lq0a 
+    link: https://www.davidrumsey.com/luna/servlet/s/k0lq0a
     figure:
       - id: "physio-diagram"  
 
@@ -97,7 +97,7 @@ object_list:
     dimensions: 125 x 146 cm
     medium: Hand-colored lithography
     location: David Rumsey Historical Map Collection
-    link: https://www.davidrumsey.com/luna/servlet/s/i21fx0 
+    link: https://www.davidrumsey.com/luna/servlet/s/i21fx0
     figure:
       - id: "carta-general"
 
@@ -108,7 +108,7 @@ object_list:
     dimensions: 39 x 50 cm
     medium: Hand-colored engraving
     location: David Rumsey Historical Map Collection
-    link: https://www.davidrumsey.com/luna/servlet/s/pfx166 
+    link: https://www.davidrumsey.com/luna/servlet/s/pfx166
     figure:
       - id: "buache"
 
@@ -118,7 +118,7 @@ object_list:
     artist: Paul Monnier and Gabriel Cyprien Le Bourguignon-Duperré
     medium: Engraving on paper  
     location: Newberry Library
-    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4039K?WS=AssetManagement 
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P4039K
     figure:
       - id: "frenchmarine"
 
@@ -129,7 +129,7 @@ object_list:
     dimensions: 21 x 26 cm 
     medium: Acrylic on found paper
     location: Newberry Library
-    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40SXQ?WS=AssetManagement 
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40SXQ 
     figure:
       - id: "fairburn"
 
@@ -151,7 +151,7 @@ object_list:
     dimensions: 86 x 86 cm
     medium: Offset lithography 
     location: Norman B. Leventhal Map & Education Center 
-    link: https://collections.leventhalmap.org/search/commonwealth:1831jp041 
+    link: https://collections.leventhalmap.org/search/commonwealth:1831jp041
     figure:
       - id: "equatorialusgs"
 
@@ -161,7 +161,7 @@ object_list:
     artist: Guias Escalada
     dimensions: 23 cm
     location: Newberry Library
-    link: https://collections.newberry.org/asset-management/2KXJ8Z8PSQMU6 
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8PSQMU6
     figure: 
       - id: "guiasescalada"
 
@@ -172,7 +172,7 @@ object_list:
     dimensions: sheet 83 x 60 cm
     medium: Collage of printed maps and magazine and newspaper clippings 
     location: Newberry Library
-    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40NUD?WS=AssetManagement
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40NUD
     figure:
       - id: "rauschenberg"
 
@@ -183,7 +183,7 @@ object_list:
     dimensions: 82-88 cm
     medium: Hand-colored engraving and etching 
     location: Newberry Library
-    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40ZI1 
+    link: https://collections.newberry.org/asset-management/2KXJ8Z8P40ZI1
     figure:
       - id: "desbarres"
     

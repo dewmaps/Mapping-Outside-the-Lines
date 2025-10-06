@@ -11028,10 +11028,10 @@ html {
 }
 .quire-cover__hero .title {
   font-family: "IBM Plex Sans Condensed", sans-serif;
-  font-size: calc(2rem * 0);
+  font-size: calc(2rem * 1);
   font-weight: 700;
   line-height: 1.07;
-  margin-bottom: calc(0.5rem * 0);
+  margin-bottom: calc(0.5rem * 1);
   color: #adc4cf;
 }
 @media print {
@@ -11045,8 +11045,8 @@ html {
 }
 .quire-cover__hero .subtitle {
   display: block;
-  margin-top: calc(0.5rem * 0);
-  font-size: calc(1.5rem * 0);
+  margin-top: calc(0.5rem * 1);
+  font-size: calc(1.5rem * 1);
   font-weight: 400;
   line-height: 1.02;
   color: #adc4cf;
@@ -11061,7 +11061,7 @@ html {
 .quire-cover__hero .reading-line {
   font-family: "IBM Plex Sans Condensed", sans-serif;
   font-style: italic;
-  font-size: calc(1.25rem * 0);
+  font-size: calc(1.25rem * 1);
   line-height: 1.2;
   color: #adc4cf;
 }
@@ -11073,8 +11073,8 @@ html {
 }
 .quire-cover__hero .contributor {
   font-family: "IBM Plex Sans Condensed", sans-serif;
-  font-size: calc(1em * 0);
-  margin-top: calc(0.5rem * 0);
+  font-size: calc(1em * 1);
+  margin-top: calc(0.5rem * 1);
   color: #adc4cf;
 }
 @media print {
@@ -14471,4 +14471,14 @@ body > div.mfp-bg.mfp-ready {
   color: #ffffff;
   padding: 24px;
   margin-top: 12px;
+}
+
+.quire-cover__hero-body {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
