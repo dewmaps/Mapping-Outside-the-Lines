@@ -87,12 +87,12 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /_assets/downloads/publication.pdf
   - type: other-format
     name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /about/
   - type: footer-link
     name: About
     link_relation: about
