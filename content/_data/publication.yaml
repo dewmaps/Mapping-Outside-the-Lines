@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org' 
-url: 'https://netlify.app'
+url: 'https://publications.newberry.org/mapping-outside-the-lines'
 
 # ------------------------------------------------------------------------------
 # Title & Description 
@@ -125,7 +125,7 @@ revision_history:
   - date:
     summary:
 
-repository_url: https://netlify.app
+repository_url: https://github.com/dewmaps/Mapping-Outside-the-Lines/
 
 # ------------------------------------------------------------------------------
 # Promo Image
